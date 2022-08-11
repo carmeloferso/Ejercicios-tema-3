@@ -8,7 +8,6 @@ public class Main {
         miCoche.incrementarPuerta();
         miCoche.incrementarPuerta();
         System.out.println(miCoche.nroPuertas);
-        System.out.println();
     }
 
     public static int sumar(int a, int b, int c) {
